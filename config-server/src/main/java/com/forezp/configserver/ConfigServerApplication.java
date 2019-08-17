@@ -5,6 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.cloud.config.server.EnableConfigServer;
 
 //sadasd
+//jiba1
 @SpringBootApplication
 @EnableConfigServer
 public class ConfigServerApplication {
